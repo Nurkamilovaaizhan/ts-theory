@@ -1,4 +1,4 @@
-//? Базовые типs
+//? Базовые типы
 let firsrName: string = "Dean"
 let age: number = 20
 let isStudent: boolean = true
@@ -48,3 +48,5 @@ function getInfo(value: any):any {
 }
 const result = getInfo('Aizhan');
 const result2 = getInfo(19);
+
+// 
